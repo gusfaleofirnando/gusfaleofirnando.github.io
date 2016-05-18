@@ -25,3 +25,10 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
+	social:
+  - title: twitter
+    url: https://twitter.com/
+  - title: facebook
+    url: https://facebook.com/
+  - title: gmail
+    url: https://accounts.google.com/ServiceLogin?
